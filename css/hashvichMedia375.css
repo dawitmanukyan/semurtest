@@ -1,0 +1,42 @@
+@media screen and (max-width:540px) {
+
+    .resp-lang {
+        display: none;
+    }
+    .main-arcanc {
+        width: 412px;
+    }
+
+    .A {
+        margin-left: 0;
+    }
+
+    .B {
+        margin-left: 0;
+    }
+
+    .roof-right-side img {
+        width: 92%;
+        height: 265px;
+        margin-top: 40px;
+        margin-right: 0;
+    }
+
+    .calc-button {
+        width: 56px;
+        height: 30px;
+    }
+
+    .roofs-select {
+        padding-top: 24px;
+    }
+
+    .roof-footer-main {
+        width: 412px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 64px;
+    }
+
+
+}

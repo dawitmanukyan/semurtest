@@ -1,0 +1,48 @@
+@media screen and (max-width:440px) {
+
+
+
+    .titleB-about {
+        font-size: 150%;
+
+    }
+
+    .resp-about375 {
+        display: none;
+    }
+
+    .titleC-about {
+        font-size: 112.5%;
+    }
+
+    .content-about-textA {
+        font-size: 100%;
+    }
+
+    .items-about {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 5%;
+        margin-left: 54px;
+    }
+ 
+    .aboutSlide{
+        overflow: hidden;
+    }
+
+    .about-item--img1 {
+        height: 360px;
+    }
+    
+    .about-item--img2 {
+        height: 240px;
+        padding: 32px;
+    }
+    
+    .about-item--img3 {
+        height: 260px;
+        padding: 32px;
+    }
+
+}

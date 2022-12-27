@@ -1,0 +1,31 @@
+@media screen and (max-width: 1400px) {
+    .roof-right-side {
+      display: none;
+    }
+}
+
+@media screen and (max-width:768px) {
+
+   
+    .main-arcanc {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .roof-footer-main {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .roof-left-side{
+        width: 100vw;
+ 
+    }
+    .B{
+        margin-left: 0;
+
+    }
+
+
+}

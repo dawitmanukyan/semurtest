@@ -1,0 +1,123 @@
+
+
+@media screen and (max-width:1090px) {
+  .second-menu {
+    display: none;
+  }
+}
+
+@media screen and (max-width:1000px) {
+  .navbar a {
+    font-size: 93.5%;
+  }
+}
+
+@media screen and (max-width:830px) {
+  .navbar a {
+    display: none;
+  }
+}
+
+@media screen and (max-width:844px) {
+  .phone {
+    margin-right: 0%;
+  }
+
+  .logo {
+    min-width: 12.5%;
+
+  }
+
+}
+
+@media screen and (max-width:610px) {
+  .credit {
+    font-size: 40px;
+  }
+
+}
+
+@media screen and (max-width:580px) {
+  .resp-lang a {
+    display: none;
+  }
+}
+
+.container {
+  width: 92%;
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+
+.texts {
+  width: 100%;
+  display: flex;
+  margin-top: 48px;
+}
+
+.arrow {
+  margin: 0 5px;
+}
+
+.main {
+  font-size: 100%;
+  color: #1d1c20;
+}
+
+.report-titleA {
+  color: var(--redColor);
+  font-size: 100%;
+  margin-top: 6.4%;
+}
+
+.report-titleB {
+  font-size: 300%;
+  margin-top: 2.4%;
+}
+
+.reports {
+  font-size: 125%;
+  margin-top: 1.6%;
+  color: #85888A;
+}
+
+.reportsTable {
+  width: 100%;
+  height: 586px;
+  margin-top: 6.4%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+}
+
+.pdf-flex {
+  width: 106.5%;
+  height: 68px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+
+.pdf-an {
+  margin-left: 40px;
+  color: #1D1C20;
+  font-size: 150%;
+
+}
+
+.pdf-img img {
+  margin-right: 100px;
+  width: 20%;
+
+}
+
+.pdf-hr {
+  width: 100%;
+  color: #D8D7D9;
+}
+
+
+
+
+
+

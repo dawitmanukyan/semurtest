@@ -1,0 +1,154 @@
+
+
+.text_center {
+    display: flex;
+    margin-left: 60px;
+}
+
+.border_div {
+    width: 95px;
+    border-bottom: solid 2px #fa4c39;
+    margin-bottom: 7px;
+}
+
+.credit {
+    font-family: "Mardoto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 225%;
+    line-height: 24px;
+    color: #ffffff;
+    margin-top: 226px;
+    margin-left: 24px;
+}
+
+.container {
+    width: 92%;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.texts {
+    width: 100%;
+    display: flex;
+    margin-top: 48px;
+}
+
+.arrow {
+    margin: 0 5px;
+}
+
+.main {
+    font-size: 100%;
+    color: #1d1c20;
+}
+
+.arcancTitle {
+    margin-top: 5.2%;
+    color: #1D1C20;
+    font-size: 150%;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+
+}
+
+.main-arcanc {
+    display: flex;
+}
+
+.roofs-select {
+    display: flex;
+    flex-direction: column;
+    width: 316px;
+
+}
+
+.roofs-select {
+    padding-top: 32px;
+}
+
+#roof-select {
+ 
+    margin-top: 12px;
+    height: 42px;
+    border-radius: 8px;
+    opacity: 50%;
+
+}
+.A{
+    margin-left: 32px;
+}
+.B{
+    margin-left: 32px;
+}
+
+.line-hashvich {
+    width: 100%;
+    border: 1px solid #D8D7D9;
+    margin-top: 5.2%;
+}
+
+.roof-footer-main {
+    width: 1320px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 64px;
+}
+.roof-left-side{
+    width: 423px;
+    height: 400px;
+
+}
+
+.left-side-title {
+    font-size: 150%;
+    color: #1D1C20;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+}
+
+.left-side-inputA {
+    margin-top: 24px;
+    font-size: 87.5%;
+    color: #1D1C20;
+}
+
+::placeholder {
+    color: #B0AFB3;
+}
+
+.left-side-inputB {
+    margin-top: 32px;
+}
+
+.left-side-inputA-input {
+    width: 316px;
+    height: 42px;
+    margin-top: 12px;
+    border-radius: 8px;
+    opacity: 50%;
+}
+
+.roof-right-side img {
+    border-radius: 20px;
+    margin-right: 60px;
+
+}
+.calcButton{
+    display: flex;
+    justify-content: center;
+    margin-top: 30.5px;
+}
+.calc-button{
+    width: 8.3%;
+    height: 39px;
+    background-color: #EF4B37;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
